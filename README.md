@@ -13,7 +13,7 @@ The algorithm finds optimal paths that:
 
 ## Algorithm
 
-The pathfinding uses the **A* algorithm** with a custom cost function:
+The pathfinding uses the A* algorithm with a custom cost function:
 
 ```
 Total Cost = Distance + Risk Penalty + Turn Penalty
